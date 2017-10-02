@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaizing Race.Plugins", "Amaizing Race.Plugins.csproj", "{1E18960F-B738-C677-EC15-3737AB25952C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaizing Race", "Amaizing Race.csproj", "{D8F3AB50-4FEB-7FC8-723A-97C9C50AA329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaizing Race.Editor.Plugins", "Amaizing Race.Editor.Plugins.csproj", "{49216B52-F146-D63A-775E-F4939098E79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E18960F-B738-C677-EC15-3737AB25952C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E18960F-B738-C677-EC15-3737AB25952C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E18960F-B738-C677-EC15-3737AB25952C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E18960F-B738-C677-EC15-3737AB25952C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F3AB50-4FEB-7FC8-723A-97C9C50AA329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F3AB50-4FEB-7FC8-723A-97C9C50AA329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F3AB50-4FEB-7FC8-723A-97C9C50AA329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F3AB50-4FEB-7FC8-723A-97C9C50AA329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49216B52-F146-D63A-775E-F4939098E79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49216B52-F146-D63A-775E-F4939098E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49216B52-F146-D63A-775E-F4939098E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49216B52-F146-D63A-775E-F4939098E79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
